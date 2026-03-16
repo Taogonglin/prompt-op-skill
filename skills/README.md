@@ -13,7 +13,7 @@ Personal collection of Claude Code skills.
 ### Method 1: Clone and Link
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/my-skills.git
+git clone https://github.com/Taogonglin/skills.git
 cd my-skills
 
 # Link individual skills

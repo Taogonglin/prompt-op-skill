@@ -8,7 +8,7 @@ A Claude Code skill for writing efficient prompts that maximize hit rate, minimi
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/my-skills.git
+git clone https://github.com/Taogonglin/skills.git
 cd my-skills
 
 # Link skill to Claude Code
